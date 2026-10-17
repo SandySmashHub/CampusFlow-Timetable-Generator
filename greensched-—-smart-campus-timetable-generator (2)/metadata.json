@@ -1,0 +1,6 @@
+{
+  "name": "GreenSched — Smart Campus Timetable Generator",
+  "description": "Nature-themed full-stack campus timetable generator with constraint-satisfaction clash prevention, persistent SQLite database, and multilingual Hindi & English timetable chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
